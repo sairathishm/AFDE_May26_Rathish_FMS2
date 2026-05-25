@@ -1,0 +1,129 @@
+participant_name,program_name,rating,comments,submitted_date
+Hiro Sato,Machine Learning with scikit-learn,5,Loved the hands-on labs.,2026-05-02T17:00:00
+Sai Rathish,Docker & Kubernetes 101,2,Slides had typos and were hard to read.,2026-03-06T16:00:00
+Mei Lin,Cloud Foundations on AWS,1,Trainer was unprepared.,2026-01-09T17:00:00
+Henry Nguyen,Machine Learning with scikit-learn,5,Highly recommended for everyone.,2026-01-31T11:00:00
+Zara Shaikh,DevOps Fundamentals,3,Helpful but felt rushed near the end.,2026-04-06T08:00:00
+Fatima Khan,Power BI for Business Users,4,"Solid material, minor improvements possible.",2026-04-27T10:00:00
+Hannah Kim,SQL for Analytics,3,Helpful but felt rushed near the end.,2026-05-11T08:00:00
+Layla Hassan,Agile Project Management,3,"Reasonable, would benefit from exercises.",2026-03-02T08:00:00
+Anna Schmidt,Machine Learning with scikit-learn,4,"Solid material, minor improvements possible.",2026-05-05T02:00:00
+Hiro Sato,Machine Learning with scikit-learn,3,"OK pace, could be more interactive.",2026-03-24T10:00:00
+Camille Dubois,Machine Learning with scikit-learn,4,"Good content, well paced.",2026-01-22T04:00:00
+Fatima Khan,Agile Project Management,4,"Useful workshop, learned a lot.",2026-05-05T18:00:00
+Ananya Gupta,Agile Project Management,2,Slides had typos and were hard to read.,2026-04-06T00:00:00
+Aisha Bello,Machine Learning with scikit-learn,3,Average — slides were a bit dense.,2026-04-13T13:00:00
+Mei Lin,SQL for Analytics,3,"Decent overview, needs more depth.",2026-04-17T20:00:00
+Vivek Nair,Cybersecurity Awareness,5,Loved the hands-on labs.,2026-02-01T19:00:00
+Zara Shaikh,DevOps Fundamentals,3,Helpful but felt rushed near the end.,2026-02-05T20:00:00
+Aarav Sharma,Docker & Kubernetes 101,4,"Good content, well paced.",2026-04-17T07:00:00
+Oluwaseun Adebayo,Data Visualization with Tableau,1,Very disappointing.,2026-01-27T03:00:00
+Camille Dubois,Communication Skills Workshop,3,"Reasonable, would benefit from exercises.",2026-01-28T23:00:00
+Anna Schmidt,Machine Learning with scikit-learn,2,Slides had typos and were hard to read.,2026-04-03T13:00:00
+Emily Carter,Cloud Foundations on AWS,4,Practical examples were helpful.,2026-05-06T10:00:00
+Aisha Bello,Docker & Kubernetes 101,3,Average — slides were a bit dense.,2026-01-26T09:00:00
+Mei Lin,TypeScript Deep Dive,5,"Excellent trainer, very engaging.",2026-04-12T11:00:00
+Hannah Kim,Python Fundamentals Bootcamp,4,"Good content, well paced.",2026-03-08T02:00:00
+Sai Rathish,Docker & Kubernetes 101,4,"Good content, well paced.",2026-02-03T05:00:00
+Mei Lin,DevOps Fundamentals,3,Helpful but felt rushed near the end.,2026-01-22T04:00:00
+Lucas Bennett,Python Fundamentals Bootcamp,5,Loved the hands-on labs.,2026-02-03T18:00:00
+Vivek Nair,Cybersecurity Awareness,4,Trainer was knowledgeable.,2026-04-18T07:00:00
+Ishaan Patel,Data Visualization with Tableau,2,Slides had typos and were hard to read.,2026-01-09T11:00:00
+Aisha Bello,TypeScript Deep Dive,3,Helpful but felt rushed near the end.,2026-04-18T14:00:00
+Tariq Malik,Python Fundamentals Bootcamp,4,"Solid material, minor improvements possible.",2026-02-10T14:00:00
+Yuki Tanaka,Leadership Essentials,5,Loved the hands-on labs.,2026-01-26T00:00:00
+Sophia Martinez,Docker & Kubernetes 101,5,Best session I attended this year.,2026-02-18T00:00:00
+Ethan Wilson,Data Engineering with Spark,5,"Excellent trainer, very engaging.",2026-03-06T11:00:00
+Olivia Brown,TypeScript Deep Dive,5,"Excellent trainer, very engaging.",2026-02-15T08:00:00
+Maya Verma,SQL for Analytics,5,Highly recommended for everyone.,2026-02-26T23:00:00
+Sophia Martinez,React Crash Course,4,"Useful workshop, learned a lot.",2026-03-02T03:00:00
+Rohan Mehta,Data Visualization with Tableau,4,"Good content, well paced.",2026-05-02T16:00:00
+Ethan Wilson,Cloud Foundations on AWS,2,Trainer struggled with questions.,2026-01-27T21:00:00
+Oluwaseun Adebayo,DevOps Fundamentals,5,Best session I attended this year.,2026-02-28T11:00:00
+Karthik Subramanian,Cloud Foundations on AWS,5,Best session I attended this year.,2026-04-16T23:00:00
+Fatima Khan,Data Engineering with Spark,4,"Solid material, minor improvements possible.",2026-03-19T11:00:00
+Aisha Bello,Agile Project Management,4,Trainer was knowledgeable.,2026-01-03T17:00:00
+Noah Singh,Leadership Essentials,3,"OK pace, could be more interactive.",2026-04-04T13:00:00
+Camille Dubois,Data Visualization with Tableau,1,Trainer was unprepared.,2026-03-10T02:00:00
+Tariq Malik,Data Engineering with Spark,4,"Good content, well paced.",2026-01-26T13:00:00
+Yuki Tanaka,MLOps Foundations,1,Very disappointing.,2026-01-26T20:00:00
+Lucas Bennett,Data Visualization with Tableau,3,"Decent overview, needs more depth.",2026-02-13T17:00:00
+Hannah Kim,Generative AI Primer,5,Best session I attended this year.,2026-04-15T14:00:00
+Tariq Malik,TypeScript Deep Dive,4,"Solid material, minor improvements possible.",2026-01-05T14:00:00
+Ishaan Patel,Machine Learning with scikit-learn,5,Highly recommended for everyone.,2026-04-30T15:00:00
+Yuki Tanaka,Leadership Essentials,5,Crystal clear explanations.,2026-04-23T22:00:00
+Anna Schmidt,Microservices Architecture,5,Best session I attended this year.,2026-05-05T08:00:00
+Diego Alvarez,Data Visualization with Tableau,5,Best session I attended this year.,2026-04-19T03:00:00
+Lucas Bennett,Cloud Foundations on AWS,1,Trainer was unprepared.,2026-03-05T11:00:00
+Hiro Sato,Leadership Essentials,1,Trainer was unprepared.,2026-02-28T12:00:00
+Anna Schmidt,React Crash Course,2,Trainer struggled with questions.,2026-01-06T00:00:00
+Mei Lin,SQL for Analytics,2,Too basic for experienced participants.,2026-05-01T08:00:00
+Sara Ahmed,Data Engineering with Spark,4,Trainer was knowledgeable.,2026-01-02T14:00:00
+Liam O'Connor,Power BI for Business Users,2,Material felt outdated.,2026-03-28T13:00:00
+Yuki Tanaka,Communication Skills Workshop,1,"Poor session, did not meet expectations.",2026-03-27T23:00:00
+Yuki Tanaka,Agile Project Management,3,"Decent overview, needs more depth.",2026-02-16T14:00:00
+Marco Rossi,Python Fundamentals Bootcamp,5,Best session I attended this year.,2026-05-05T20:00:00
+Lucas Bennett,Python Fundamentals Bootcamp,5,"Excellent trainer, very engaging.",2026-01-05T15:00:00
+Lucas Bennett,Cybersecurity Awareness,2,Trainer struggled with questions.,2026-04-27T17:00:00
+Vivek Nair,Generative AI Primer,4,"Useful workshop, learned a lot.",2026-02-06T11:00:00
+Hiro Sato,Cybersecurity Awareness,2,Material felt outdated.,2026-02-13T16:00:00
+Sophia Martinez,SQL for Analytics,4,Practical examples were helpful.,2026-04-10T21:00:00
+Marco Rossi,Agile Project Management,3,Average — slides were a bit dense.,2026-02-17T06:00:00
+Layla Hassan,Machine Learning with scikit-learn,2,"Not engaging, lost attention.",2026-04-21T04:00:00
+Camille Dubois,Agile Project Management,4,"Good content, well paced.",2026-03-12T10:00:00
+Ethan Wilson,Docker & Kubernetes 101,3,Helpful but felt rushed near the end.,2026-02-18T15:00:00
+Sara Ahmed,DevOps Fundamentals,3,Average — slides were a bit dense.,2026-03-15T07:00:00
+Layla Hassan,Machine Learning with scikit-learn,5,Best session I attended this year.,2026-02-09T21:00:00
+Karthik Subramanian,Leadership Essentials,4,"Solid material, minor improvements possible.",2026-01-11T01:00:00
+Olivia Brown,React Crash Course,4,Practical examples were helpful.,2026-04-26T23:00:00
+Yuki Tanaka,SQL for Analytics,5,Best session I attended this year.,2026-03-15T19:00:00
+Lucas Bennett,Microservices Architecture,4,Trainer was knowledgeable.,2026-01-22T01:00:00
+Zara Shaikh,Python Fundamentals Bootcamp,2,Trainer struggled with questions.,2026-04-27T16:00:00
+Aisha Bello,Machine Learning with scikit-learn,5,"Excellent trainer, very engaging.",2026-02-25T22:00:00
+Aisha Bello,Cloud Foundations on AWS,3,Average — slides were a bit dense.,2026-03-12T16:00:00
+Sophia Martinez,Docker & Kubernetes 101,4,Trainer was knowledgeable.,2026-02-06T10:00:00
+Lucas Bennett,TypeScript Deep Dive,3,Average — slides were a bit dense.,2026-03-31T12:00:00
+Lucas Bennett,Data Visualization with Tableau,3,"OK pace, could be more interactive.",2026-01-09T07:00:00
+Lucas Bennett,Power BI for Business Users,3,"OK pace, could be more interactive.",2026-01-30T03:00:00
+Maya Verma,Cloud Foundations on AWS,2,Trainer struggled with questions.,2026-02-18T06:00:00
+Ishaan Patel,DevOps Fundamentals,5,"Excellent trainer, very engaging.",2026-04-10T13:00:00
+Ananya Gupta,Power BI for Business Users,4,Practical examples were helpful.,2026-03-31T15:00:00
+Sara Ahmed,Data Engineering with Spark,5,Best session I attended this year.,2026-02-27T03:00:00
+Ishaan Patel,Power BI for Business Users,3,"OK pace, could be more interactive.",2026-04-01T02:00:00
+Karthik Subramanian,Machine Learning with scikit-learn,3,Average — slides were a bit dense.,2026-01-28T02:00:00
+Oluwaseun Adebayo,Machine Learning with scikit-learn,4,"Solid material, minor improvements possible.",2026-01-09T10:00:00
+Rohan Mehta,Leadership Essentials,5,Crystal clear explanations.,2026-05-05T21:00:00
+Emily Carter,Data Engineering with Spark,4,"Solid material, minor improvements possible.",2026-03-04T18:00:00
+Karthik Subramanian,Data Engineering with Spark,4,"Solid material, minor improvements possible.",2026-05-10T06:00:00
+Sara Ahmed,Docker & Kubernetes 101,4,Trainer was knowledgeable.,2026-05-04T20:00:00
+Yuki Tanaka,React Crash Course,5,Best session I attended this year.,2026-02-02T13:00:00
+Zara Shaikh,React Crash Course,4,"Good content, well paced.",2026-04-23T10:00:00
+Sara Ahmed,Agile Project Management,5,Loved the hands-on labs.,2026-04-10T16:00:00
+Rohan Mehta,TypeScript Deep Dive,3,"Decent overview, needs more depth.",2026-03-19T04:00:00
+Emily Carter,FastAPI Workshop,4,"Good content, well paced.",2026-03-26T19:00:00
+Zara Shaikh,Machine Learning with scikit-learn,4,"Useful workshop, learned a lot.",2026-03-27T14:00:00
+Henry Nguyen,Generative AI Primer,5,Highly recommended for everyone.,2026-03-05T18:00:00
+Camille Dubois,DevOps Fundamentals,5,Loved the hands-on labs.,2026-03-19T10:00:00
+Arjun Reddy,Cloud Foundations on AWS,3,"Decent overview, needs more depth.",2026-05-06T16:00:00
+Zara Shaikh,Data Visualization with Tableau,4,"Useful workshop, learned a lot.",2026-05-07T23:00:00
+Daniel Wright,Python Fundamentals Bootcamp,1,"Poor session, did not meet expectations.",2026-05-01T06:00:00
+Liam O'Connor,DevOps Fundamentals,5,Highly recommended for everyone.,2026-02-08T18:00:00
+Camille Dubois,Cloud Foundations on AWS,5,Loved the hands-on labs.,2026-03-10T21:00:00
+Sara Ahmed,Generative AI Primer,4,"Solid material, minor improvements possible.",2026-01-16T07:00:00
+Diego Alvarez,Communication Skills Workshop,3,Average — slides were a bit dense.,2026-02-19T19:00:00
+Marco Rossi,Power BI for Business Users,2,"Not engaging, lost attention.",2026-01-09T17:00:00
+Olivia Brown,Cloud Foundations on AWS,5,"Excellent trainer, very engaging.",2026-04-09T09:00:00
+Hiro Sato,Python Fundamentals Bootcamp,4,"Good content, well paced.",2026-03-03T00:00:00
+Maya Verma,React Crash Course,4,"Useful workshop, learned a lot.",2026-01-01T07:00:00
+Sara Ahmed,Data Visualization with Tableau,3,Average — slides were a bit dense.,2026-02-02T00:00:00
+Aisha Bello,Leadership Essentials,5,Highly recommended for everyone.,2026-03-15T18:00:00
+Olivia Brown,Docker & Kubernetes 101,2,"Not engaging, lost attention.",2026-01-12T23:00:00
+Aisha Bello,TypeScript Deep Dive,3,"Decent overview, needs more depth.",2026-04-15T14:00:00
+Hiro Sato,Machine Learning with scikit-learn,5,Loved the hands-on labs.,2026-05-02T17:00:00
+Sai Rathish,Docker & Kubernetes 101,2,Slides had typos and were hard to read.,2026-03-06T16:00:00
+  Test  user  ,SQL for Analytics,0,rating too low,2026-03-15
+Another User,FastAPI Workshop,7,rating too high,2026-03-16
+Bad Rating,Cloud Foundations on AWS,abc,rating not a number,2026-03-17
+,DevOps Fundamentals,4,missing name,2026-03-18
+Missing Program,,3,missing program,2026-03-19
+   priya   IYER   ,  react crash course  ,5,lots   of    whitespace,2026-04-01
